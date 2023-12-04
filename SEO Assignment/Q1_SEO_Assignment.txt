@@ -1,0 +1,22 @@
+Q1.What is SEO and explain the importance of SEO?
+
+solition:-
+         Search Engine Optimization (SEO) is the process of improving a website's 
+         visibility in search engine results. The goal of SEO is to increase organic 
+         traffic to a website by improving its search engine rankings.
+
+ SEO is important for a website because it: 
+        1.Improves digital marketing ROI
+        2.Boosts credibility
+        3.Drives high-quality traffic
+        4.Measures success with real numbers
+        5.Promotes a company
+        6.Targets every stage of the buying funnel
+        7.Increases brand awareness
+        8.Generates more leads, sales, and market share
+
+SEO is quantifiable, so the performance and growth of a website can be measured.
+Some ways to measure SEO include: 
+       1.Growth in website traffic
+       2.Improvements in search engine results page rankings
+       3.Increase in conversions and revenue

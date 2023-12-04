@@ -1,0 +1,25 @@
+Q2.Create an HTML document with appropriate <title> and <meta> tags for SEO optimization. Ensure the title is 
+descriptive and the meta description is concise.
+
+solution:-
+  
+  <!DOCTYPE html>
+  <html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Living Tips - Sustainable Lifestyle Ideas for a Healthier Planet</title>
+    <meta name="description" content="Explore eco-friendly living with our Green Living Tips.
+    Discover sustainable lifestyle ideas, from reducing waste to choosing renewable energy sources, for a healthier planet.">
+    <meta name="keywords" content="green living, sustainable lifestyle, eco-friendly tips, environmental conservation, 
+    reduce waste, renewable energy">
+    <meta name="author" content="Your Name-Rushi">
+    <!-- Add more meta tags as needed for SEO optimization -->
+</head>
+
+<body>
+    <!-- Your HTML content goes here -->
+</body>
+
+</html>
